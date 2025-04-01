@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 public class User
 {
 	public int UserID { get; set; }
@@ -8,7 +7,7 @@ public class User
 	public string Password { get; set; }
 	public UserRole RoleName { get; set; }
 
-	public virtual Role Role { get; set; }
+	public virtual UserRole Role { get; set; }
     public virtual ICollection<Project> ManagedProjects { get; set; }
 }
 
