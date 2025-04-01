@@ -1,0 +1,5 @@
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Models/obj/Debug/net9.0-windows/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Models/obj/Debug/net9.0-windows/Models.AssemblyInfoInputs.cache
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Models/obj/Debug/net9.0-windows/Models.AssemblyInfo.cs
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Models/obj/Debug/net9.0-windows/Models.csproj.CoreCompileInputs.cache
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Models/obj/Debug/net9.0-windows/Models.sourcelink.json
