@@ -68,3 +68,11 @@
 /Users/borisosaulenko/Documents/C#/ProjectManagement/Server/obj/Debug/net9.0-windows/Server.pdb
 /Users/borisosaulenko/Documents/C#/ProjectManagement/Server/obj/Debug/net9.0-windows/Server.genruntimeconfig.cache
 /Users/borisosaulenko/Documents/C#/ProjectManagement/Server/obj/Debug/net9.0-windows/ref/Server.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Microsoft.Extensions.Configuration.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Microsoft.Extensions.Configuration.Json.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Npgsql.dll
+/Users/borisosaulenko/Documents/C#/ProjectManagement/Server/bin/Debug/net9.0-windows/Npgsql.EntityFrameworkCore.PostgreSQL.dll

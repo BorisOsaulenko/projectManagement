@@ -2,16 +2,16 @@
 
 public class Project
 {
-	public int PrijectID { get; set; }
-	public string Name { get; set; }
-	public string Description { get; set; }
-    public DateTime CreationDate { get; set; }
-    public DateTime DeadLine { get; set; }
-	public ProjectStatus Status { get; set; }
-    public int ManagerID { get; set; }
+    public required int PrijectID { get; set; }
+    public required string Name { get; set; }
+    public required string Description { get; set; }
+    public required DateTime CreationDate { get; set; }
+    public required DateTime DeadLine { get; set; }
+    public required ProjectStatus Status { get; set; }
+    public required int ManagerID { get; set; }
 
-    public virtual User Manager { get; set; }
-    public virtual ICollection<Task> Tasks { get; set; }
+    public required virtual User Manager { get; set; }
+    public required virtual ICollection<Task> Tasks { get; set; }
 }
 
 public enum ProjectStatus
